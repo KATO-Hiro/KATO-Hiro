@@ -6,6 +6,7 @@
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=KATO-Hiro)
 
 [![AtCoderClans](https://github-readme-stats.vercel.app/api/pin/?username=KATO-Hiro&repo=AtCoderClans&theme=tokyonight)](https://github.com/KATO-Hiro/AtCoderClans)
+[![AtCoderTrophies](https://github-readme-stats.vercel.app/api/pin/?username=KATO-Hiro&repo=AtCoderTrophies&theme=tokyonight)](https://github.com/KATO-Hiro/AtCoderTrophies)
 [![ac-library-python](https://github-readme-stats.vercel.app/api/pin/?username=not522&repo=ac-library-python&show_owner=true&theme=tokyonight)](https://github.com/not522/ac-library-python)
 [![AtCoderChokuZen](https://github-readme-stats.vercel.app/api/pin/?username=KATO-Hiro&repo=AtCoderChokuZen&theme=tokyonight)](https://github.com/KATO-Hiro/AtCoderChokuZen)
 [![AtCoder-Jump-to-Submissions-from-Standings](https://github-readme-stats.vercel.app/api/pin/?username=KATO-Hiro&repo=AtCoder-Jump-to-Submissions-from-Standings&theme=tokyonight)](https://github.com/KATO-Hiro/AtCoder-Jump-to-Submissions-from-Standings)
